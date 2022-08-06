@@ -3,6 +3,7 @@
     "files.associations": {
         "*.ejs": "html",
         "ostream": "cpp",
-        "xiosbase": "cpp"
+        "xiosbase": "cpp",
+        "xstring": "cpp"
     }
 }
